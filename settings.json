@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "title": "ABBREV",
+        "logBar": true,
+        "logReq": false,
+        "private": false,
+        "perms": 0,
+        "ownerID": 0
+    }
+}
